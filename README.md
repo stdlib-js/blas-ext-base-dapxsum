@@ -20,7 +20,7 @@ limitations under the License.
 
 # dapxsum
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Add a constant to each double-precision floating-point strided array element and compute the sum.
 
@@ -240,8 +240,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-dapxsum/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-dapxsum?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/blas-ext-base-dapxsum.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/blas-ext-base-dapxsum/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
