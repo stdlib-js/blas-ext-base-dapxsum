@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-dapxsum",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Adds a constant to each double-precision floating-point strided array element and computes the sum.",
   "license": "Apache-2.0",
   "author": {
