@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/dapxsum"
-click B href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/main"
-click C href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/production"
-click D href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/esm"
-click E href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/deno"
-click F href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/dapxsum"
+%% click B href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/main"
+%% click C href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/production"
+%% click D href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/esm"
+%% click E href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/deno"
+%% click F href "https://github.com/stdlib-js/blas-ext-base-dapxsum/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/dapxsum
