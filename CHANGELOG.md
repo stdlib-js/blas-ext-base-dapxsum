@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`49f4678`](https://github.com/stdlib-js/stdlib/commit/49f46785af07e358a254308f25b80c6b6779ae48) - **chore:** update docs and tests of `blas/ext/base/dapxsum` [(#3213)](https://github.com/stdlib-js/stdlib/pull/3213) _(by Muhammad Haris)_
 -   [`a13603b`](https://github.com/stdlib-js/stdlib/commit/a13603b556defa762f7fe1d25fbfa3b621404f69) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dcusum` [(#2954)](https://github.com/stdlib-js/stdlib/pull/2954) _(by Muhammad Haris)_
 -   [`dc08755`](https://github.com/stdlib-js/stdlib/commit/dc08755be693a93f1cef11bc0fe13d30829c9392) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dapxsum` [(#2946)](https://github.com/stdlib-js/stdlib/pull/2946) _(by Muhammad Haris, Athan Reines)_
@@ -68,7 +69,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 -   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`eba97ba`](https://github.com/stdlib-js/stdlib/commit/eba97bab6149fd8664c58d0c850c70d32b5c1f9d) - **build:** fix missing default task _(by Athan Reines)_
 -   [`ceb4943`](https://github.com/stdlib-js/stdlib/commit/ceb494351d42c2505e559a2c8aad9a120c76d0db) - **docs:** remove comments _(by Athan Reines)_
--   [`b9f2025`](https://github.com/stdlib-js/stdlib/commit/b9f20258c101c9c53379d0704085ab0def1f1831) - **refactor:** update `blas/ext/base/dapxsum` to follow current project conventions _(by NightKnight, Athan, Philipp Burckhardt)_
+-   [`b9f2025`](https://github.com/stdlib-js/stdlib/commit/b9f20258c101c9c53379d0704085ab0def1f1831) - **refactor:** update `blas/ext/base/dapxsum` to follow current project conventions _(by Ahmed Atwa, Athan, Philipp Burckhardt)_
 
 </details>
 
@@ -82,8 +83,8 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Ahmed Atwa
 -   Athan Reines
--   NightKnight
 -   Philipp Burckhardt
 
 </section>
