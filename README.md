@@ -168,7 +168,7 @@ var dapxsum = require( '@stdlib/blas-ext-base-dapxsum' );
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float64'
-} );
+});
 console.log( x );
 
 var v = dapxsum( x.length, 5.0, x, 1 );
@@ -314,7 +314,7 @@ int main( void ) {
 
 -   <span class="package-name">[`@stdlib/blas-ext/base/dapxsumpw`][@stdlib/blas/ext/base/dapxsumpw]</span><span class="delimiter">: </span><span class="description">add a scalar constant to each double-precision floating-point strided array element and compute the sum using pairwise summation.</span>
 -   <span class="package-name">[`@stdlib/blas-ext/base/dsum`][@stdlib/blas/ext/base/dsum]</span><span class="delimiter">: </span><span class="description">calculate the sum of double-precision floating-point strided array elements.</span>
--   <span class="package-name">[`@stdlib/blas-ext/base/gapxsum`][@stdlib/blas/ext/base/gapxsum]</span><span class="delimiter">: </span><span class="description">add a constant to each strided array element and compute the sum.</span>
+-   <span class="package-name">[`@stdlib/blas-ext/base/gapxsum`][@stdlib/blas/ext/base/gapxsum]</span><span class="delimiter">: </span><span class="description">add a scalar constant to each strided array element and compute the sum.</span>
 -   <span class="package-name">[`@stdlib/blas-ext/base/sapxsum`][@stdlib/blas/ext/base/sapxsum]</span><span class="delimiter">: </span><span class="description">add a constant to each single-precision floating-point strided array element and compute the sum.</span>
 
 </section>
@@ -347,7 +347,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
