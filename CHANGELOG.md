@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-12-05)
+## 0.3.0 (2026-01-29)
 
 <section class="features">
 
@@ -47,6 +47,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`4910e96`](https://github.com/stdlib-js/stdlib/commit/4910e96586d51102016c2347de92f2b904dbea60) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dapxsum` [(#8812)](https://github.com/stdlib-js/stdlib/pull/8812) _(by Krishna Awasthi)_
 -   [`c221279`](https://github.com/stdlib-js/stdlib/commit/c2212790b0118b7787b5e292244b4364c08ea05a) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`912f410`](https://github.com/stdlib-js/stdlib/commit/912f41098b5dbf1dc535e48259d60f9e1adbec90) - **fix:** add missing `argv-strided-float64array` dependency to `dapxsum` manifest _(by Philipp Burckhardt)_
